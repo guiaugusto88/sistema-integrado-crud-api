@@ -9,6 +9,16 @@ Este projeto é um ecossistema desenvolvido em Python utilizando o framework Str
 - **Consulta de Investimentos**: Integração com API para busca de cotações de ativos (Ex: MXRF11, HGLG11) e armazenamento de histórico de preços.
 - **Calculadora Interativa**: Ferramenta utilitária com lógica de operações matemáticas e feedback visual dinâmico.
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cea435b6-083a-48e8-8ac4-419c3abbc7ce" alt="Demonstração do Sistema" width="850">
+  <br>
+  <em>Demonstração em tempo real: Consulta de ativos via API e salvamento automático no SQLite.</em>
+</p>
+
+<br>
+
 ## 🛠️ Tecnologias Utilizadas
 - **Python**: Linguagem principal para lógica e integração.
 - **Streamlit**: Framework para criação da interface web interativa.
@@ -27,3 +37,4 @@ O projeto foi organizado de forma modular para garantir a escalabilidade e manut
 2. Instale as bibliotecas necessárias:
    ```bash
    pip install streamlit requests pandas
+
